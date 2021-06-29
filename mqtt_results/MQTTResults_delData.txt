@@ -1,0 +1,3 @@
+txSize	resTime	cpuPerc	memoryPerc	memoryUsed
+11519.166666666666 	 4068 	 1.3 	 58.6 	 1.83754752 
+11240.5 	 3866 	 0.4 	 56.7 	 1.779003392 

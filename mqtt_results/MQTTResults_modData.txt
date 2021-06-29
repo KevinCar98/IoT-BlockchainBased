@@ -1,0 +1,2 @@
+resTime	cpuPerc	memoryPerc	memoryUsed
+325 	 0.6 	 56.8 	 1.779822592 
